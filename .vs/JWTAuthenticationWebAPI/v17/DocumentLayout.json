@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|d:\\improve skills\\projects\\asp.net 7 and jwt\\jwtauthenticationwebapi\\jwtauthenticationwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|solutionrelative:jwtauthenticationwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|d:\\improve skills\\projects\\asp.net 7 and jwt\\jwtauthenticationwebapi\\jwtauthenticationwebapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|solutionrelative:jwtauthenticationwebapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|d:\\improve skills\\projects\\asp.net 7 and jwt\\jwtauthenticationwebapi\\jwtauthenticationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|solutionrelative:jwtauthenticationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|d:\\improve skills\\projects\\asp.net 7 and jwt\\jwtauthenticationwebapi\\jwtauthenticationwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|solutionrelative:jwtauthenticationwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|d:\\improve skills\\projects\\asp.net 7 and jwt\\jwtauthenticationwebapi\\jwtauthenticationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|solutionrelative:jwtauthenticationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|d:\\improve skills\\projects\\asp.net 7 and jwt\\jwtauthenticationwebapi\\jwtauthenticationwebapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C1D136-B586-4E50-A2BA-6BFB3B634909}|JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI.csproj|solutionrelative:jwtauthenticationwebapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "JWTAuthenticationWebAPI\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "JWTAuthenticationWebAPI\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T16:40:17.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Users.cs",
               "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\Models\\Users.cs",
               "RelativeDocumentMoniker": "JWTAuthenticationWebAPI\\Models\\Users.cs",
@@ -63,35 +63,30 @@
               "RelativeToolTip": "JWTAuthenticationWebAPI\\Models\\Users.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T16:38:57.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-06-22T16:38:57.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "JWTAuthenticationWebAPI\\appsettings.json",
               "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\appsettings.json",
               "RelativeToolTip": "JWTAuthenticationWebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-22T16:13:35.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "JWTAuthenticationWebAPI\\Program.cs",
               "ToolTip": "D:\\Improve Skills\\Projects\\ASP.NET 7 and JWT\\JWTAuthenticationWebAPI\\JWTAuthenticationWebAPI\\Program.cs",
               "RelativeToolTip": "JWTAuthenticationWebAPI\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T15:34:40.324Z",
               "EditorCaption": ""
